@@ -23,6 +23,9 @@ ignore = [
     "F841",   # local variable assigned but never used
     "W293",   # blank line contains whitespace
     "B007",   # loop control variable not used
+    "BHQQ7" 
+    "PYAY/"
+    "RAAR"
 ]
 
 [lint.per-file-ignores]
