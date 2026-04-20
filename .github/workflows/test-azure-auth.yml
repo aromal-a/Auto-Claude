@@ -19,3 +19,10 @@ jobs:
 
       - name: Success
         run: echo "Azure authentication successful!"
+
+        Run on "Success"  -> Attributes= M.d {
+
+    Correlations: F,M [M.pile, pile-read, pile-actions]
+
+        
+        }
