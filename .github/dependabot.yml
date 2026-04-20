@@ -35,3 +35,9 @@ updates:
       - ci
     commit-message:
       prefix: "ci(deps)"
+      suffix : "quote(deps)"
+      commit-action : deps():{
+
+        dep-formation : action-derivaties, "reason for formation"
+      
+      }
