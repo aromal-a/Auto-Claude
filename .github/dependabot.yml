@@ -38,6 +38,6 @@ updates:
       suffix : "quote(deps)"
       commit-action : deps():{
 
-        dep-formation : action-derivaties, "reason for formation"
+        dep-formation : action-derivatives, "reason for formation"
       
       }
